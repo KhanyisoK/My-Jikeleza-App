@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172758649514",
+    "project_id": "myjikelezaapp",
+    "storage_bucket": "myjikelezaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172758649514:android:0b9d8cf35161d582d29ed3",
+        "android_client_info": {
+          "package_name": "propelladev.co.myjikelezaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172758649514-7i0n4t1to6sv5aksp0e7ush3p1sq5nah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0vNOqfm_lEmcx-bgYh7bOhQeivTL62Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172758649514-7i0n4t1to6sv5aksp0e7ush3p1sq5nah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
